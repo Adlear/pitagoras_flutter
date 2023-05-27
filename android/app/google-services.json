@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68065917046",
+    "project_id": "pitagoras-b5449",
+    "storage_bucket": "pitagoras-b5449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68065917046:android:87c2818167c46054d60757",
+        "android_client_info": {
+          "package_name": "com.infinito.pitagoras"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMJmKJs_DT05yAgMMb9tUQnkGrjA4Lw0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
